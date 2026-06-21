@@ -9,6 +9,9 @@ A Flask web application that predicts the **Fire Weather Index (FWI)** using a R
 The **Fire Weather Index (FWI)** is a numeric rating of fire intensity, commonly used in forest fire risk assessment. This project uses a trained **Ridge Regression** model to predict FWI based on meteorological and fire-related inputs, served through a simple Flask web interface.
 
 ---
+## Screenshot
+<img width="2940" height="1766" alt="image" src="https://github.com/user-attachments/assets/ef244bce-4940-47da-bbef-58017fb0141f" />
+
 
 ## Project Structure
 
